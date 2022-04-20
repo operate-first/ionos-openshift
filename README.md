@@ -1,6 +1,6 @@
 # Mission Statement
 
-## Establish an IONOS on Operate First community project
+## Establish an IONOS HV on Operate First as a community project
 Started at and based on the Kick-Off Meeting 2022-03-16.
 
 ### Deploying IONOS HV with Operate First.
