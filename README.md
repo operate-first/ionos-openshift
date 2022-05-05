@@ -34,6 +34,6 @@ The Data Center Designer (DCD) is a unique tool for creating and managing your D
 As is the case with a physical data center, you can use the DCD to connect various virtual elements to create a complete hosting infrastructure. 
 An introduction to the DCD can be found [here](https://youtu.be/SSuEnGU7hJc).
 
-=======
 ## Resources:
+- [Github Project Board](https://github.com/orgs/operate-first/projects/54/)
 - 2022-04-08 [Demosession for Data Center Designer (DCD)](https://youtu.be/SSuEnGU7hJc)
