@@ -1,6 +1,6 @@
 # Mission Statement
 
-## Establish an IONOS on Operate First community project
+## Establish an IONOS HV on Operate First as a community project
 Started at and based on the Kick-Off Meeting 2022-03-16.
 
 ### Deploying IONOS HV with Operate First.
@@ -33,3 +33,7 @@ Better code, better performance, better final product.
 The Data Center Designer (DCD) is a unique tool for creating and managing your DCD's graphical user interface makes data center configuration intuitive and straightforward. You can drag-and-drop virtual elements to set up and configure data center infrastructure components. 
 As is the case with a physical data center, you can use the DCD to connect various virtual elements to create a complete hosting infrastructure. 
 An introduction to the DCD can be found [here](https://youtu.be/SSuEnGU7hJc).
+
+=======
+## Resources:
+- 2022-04-08 [Demosession for Data Center Designer (DCD)](https://youtu.be/SSuEnGU7hJc)
