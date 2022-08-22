@@ -1,0 +1,8 @@
+base_dns_domain: ionos.emea.operate-first.cloud
+api_vip: 192.168.10.101
+ingress_vip: 192.168.10.102
+minimal: true
+pull_secret: openshift_pull.json
+hosts:
+- name: control-01
+  role: master
