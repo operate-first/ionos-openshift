@@ -1,5 +1,7 @@
 # Multi node install on IONOS cloud
 
+![image](dcd.png)
+
 ## Pre-requisites
 
 * [terraform](https://www.terraform.io/) to provision resources
