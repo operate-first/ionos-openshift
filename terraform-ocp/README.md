@@ -12,7 +12,7 @@
 ## prepare the cluster
 
 * Download your [OpenShift pull secret](https://console.redhat.com/openshift/install/pull-secret)
-into `openshift_pull.json` in this directory. 
+into `openshift_pull.json` in this directory.
 * Edit [aicli-params.yaml](aicli-params.yaml)
 
 Now create the cluster and download the ISO boot image
@@ -45,6 +45,6 @@ Wait until all hosts show up and select the appropriate roles for each host. Thi
 * `aicli list host`
 * `aicli update host control-0 -P role=master`
 
-Now start the installation 
-* `aicli start cluster <clustername>` 
+Now start the installation
+* `aicli start cluster <clustername>`
 * `watch aicli get events <clustername>`

@@ -3,3 +3,5 @@
 terraform.tfstate
 terraform.tfstate.backup
 */providers/*
+openshift_pull.json
+google_secret.json
